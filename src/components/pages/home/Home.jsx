@@ -4,7 +4,6 @@ import About from "./About/About";
 import Composition from "./Composition/Composition";
 import Slide from "./Slide/Slide";
 import StatiSlide from "./statiSlide/StatiSlide";
-import ContactSection from "./contactSection/contactSection";
 import EventSlide from "./eventSlide/eventSlide";
 import FaqActive from "./faqActive/faqActive";
 
@@ -16,7 +15,6 @@ function Home() {
     <Composition />
     <StatiSlide />
     <EventSlide />
-    <ContactSection/>
     <FaqActive/>
   </div>;
 }
